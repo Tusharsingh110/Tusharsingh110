@@ -1,6 +1,5 @@
 [![MasterHead](https://s13.gifyu.com/images/Sjln9.gif)](https://tusharsingh110.github.io/My-Portfolio/)
 <h3 align="center">Explorer of Uncharted technologies..</h3>
-<img align="right" alt="Heehh" width="400"  src = "https://m.media-amazon.com/images/I/91r30SxfmaL.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsingh110&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsingh110" /> </p>
 
 
