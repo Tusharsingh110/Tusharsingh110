@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Web-development**
 
-- 📫 How to reach me **tusharsingh6t@gmail.com**
+- 📫 Reach me @ **tusharsingh6t@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XFKLc_1GT-HNRLvT5oWvhYfnidEEnaCD/view?usp=drive_link](https://drive.google.com/file/d/1XFKLc_1GT-HNRLvT5oWvhYfnidEEnaCD/view?usp=drive_link)
+- 📄 Have a look at my Resume [https://drive.google.com/file/d/1XFKLc_1GT-HNRLvT5oWvhYfnidEEnaCD/view?usp=drive_link](https://drive.google.com/file/d/1XFKLc_1GT-HNRLvT5oWvhYfnidEEnaCD/view?usp=drive_link)
 
 - ❤️‍🔥 I love to **watch Anime (One Piece is my fav..)**
 
