@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **My Carrer**
 
-- 🌱 I’m currently learning **JAVA**
-
 - 👨‍💻 All of my projects are available at [https://tusharsingh110.github.io/My-Portfolio](https://tusharsingh110.github.io/My-Portfolio)
-
-- 💬 Ask me about **Web-development**
 
 - 📫 Reach me @ **tusharsingh6t@gmail.com**
 
